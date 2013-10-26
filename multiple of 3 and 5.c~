@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main(void)
+{
+int res =0;
+
+res = 333(3+999)/2 + 199(995+5)/2 + 66(15+990)/2;
+
+printf(%d,res);
